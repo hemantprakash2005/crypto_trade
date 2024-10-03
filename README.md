@@ -10,7 +10,7 @@ C++ (Programming Language)
 
 ## Project Timeline:
 Project Initiation: 2nd September, 2024
-Project Completion: 30th September, 2024
+<br>Project Completion: 30th September, 2024
 
 ## Created By:
 Hemant Prakash
