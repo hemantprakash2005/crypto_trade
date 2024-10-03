@@ -1,4 +1,4 @@
-# Crypto Tradng System
+# Crypto Trading System
 This is the project which I worked on during my specialization course of "Object Oriented Programming", an online non-credit course authorized by University of London, Goldsmiths, University
 of London and offered through Coursera.
 
