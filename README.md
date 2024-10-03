@@ -14,5 +14,5 @@ Project Initiation: 2nd September, 2024
 ## Created By:
 Hemant Prakash
 <br>Computer Sc. & Engineering
-<br>2nd Year (3rd SEM)
+<br>Year: 2nd Year (SEM-3)
 <br>Central University of Jharkhand, Ranchi.
