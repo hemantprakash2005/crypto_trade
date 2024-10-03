@@ -9,8 +9,8 @@ In this pproject there is a CSV file which has been used as a transaction histor
 C++ (Programming Language)
 
 ## Project Timeline:
-### Project Initiation: 2nd September, 2024
-### Project Completion: 30th September, 2024
+Project Initiation: 2nd September, 2024
+Project Completion: 30th September, 2024
 
 ## Created By:
 Hemant Prakash
