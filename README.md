@@ -3,6 +3,7 @@ This is the project which I worked on during my specialization course of "Object
 of London and offered through Coursera.
 
 ## Project Description:
+In this pproject there is a CSV file which has been used as a transaction history of exchange from one crypto-currency to the other. 
 
 ## Prgramming Language:
 C++ (Programming Language)
