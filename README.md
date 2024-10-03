@@ -4,6 +4,15 @@ of London and offered through Coursera.
 
 ## Project Description:
 
+## Prgramming Language:
+C++ (Programming Language)
+
 ## Project Timeline:
 Project Initiation: 2nd September, 2024
 <br>Project Completion: 30th September, 2024
+
+## Created By:
+Hemant Prakash
+<br>Computer Sc. & Engineering
+<br>2nd Year (3rd SEM)
+<br>Central University of Jharkhand, Ranchi.
