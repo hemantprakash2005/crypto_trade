@@ -1,19 +1,40 @@
 # Crypto Trading System
-This is the project which I worked on during my specialization course of "Object Oriented Programming", an online non-credit course authorized by University of London, Goldsmiths, University
-of London and offered through Coursera.
 
-## Project Description:
-In this project there is a CSV file which has been used as a transaction history of exchange from one crypto-currency to the other. This project allows the user to choose among the different options to make a bid, ask or go to other time frame.
+A **C++ based Object-Oriented Programming Project** developed as part of the **specialization course "Object Oriented Programming"** offered by **University of London, Goldsmiths, University of London** through **Coursera**.  
+<br>
 
-## Prgramming Language:
-C++ (Programming Language)
+## 📌 Project Overview
+The **Crypto Trading System** simulates a simplified trading environment using transaction history data stored in a CSV file. It enables users to perform operations such as placing **bids**, **asks**, and navigating across different **time frames**. This project demonstrates the application of **Object-Oriented Programming concepts in C++** for building modular, reusable, and maintainable software systems.  
+<br>
 
-## Project Timeline:
-Project Initiation: 2nd September, 2024
-<br>Project Completion: 30th September, 2024
+## ⚙️ Features
+- Import and process **CSV-based transaction history**.  
+- Place **bid** and **ask** orders on different cryptocurrencies.  
+- Navigate and analyze data across **multiple time frames**.  
+- Built with **Object-Oriented Design principles** in C++.  
 
-## Created By:
-Hemant Prakash
-<br>Computer Sc. & Engineering
-<br>Year: 2nd Year (SEM-3)
-<br>Central University of Jharkhand, Ranchi.
+---
+
+## 💻 Technology Stack
+- **Programming Language:** C++  
+- **Concepts Applied:** Classes, Objects, Encapsulation, Inheritance, Polymorphism, File Handling  
+
+---
+
+## 📅 Project Timeline
+- **Project Initiation:** 2nd September, 2024  
+- **Project Completion:** 30th September, 2024  
+
+---
+
+## 👨‍💻 Author
+**Hemant Prakash**  
+B.Tech in Computer Science & Engineering  
+2nd Year (Semester 3)  
+Central University of Jharkhand, Ranchi  
+
+---
+
+## 📖 Acknowledgment
+This project was developed as part of the coursework for the **Object Oriented Programming specialization** on Coursera, authorized by the **University of London (Goldsmiths)**.  
+
