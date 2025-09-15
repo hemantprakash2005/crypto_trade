@@ -11,13 +11,25 @@ The **Crypto Trading System** simulates a simplified trading environment using t
 - Import and process **CSV-based transaction history**.  
 - Place **bid** and **ask** orders on different cryptocurrencies.  
 - Navigate and analyze data across **multiple time frames**.  
-- Built with **Object-Oriented Design principles** in C++.  
+- Built with **Object-Oriented Design principles** in C++.
+<br>
 
----
 
 ## 💻 Technology Stack
 - **Programming Language:** C++  
 - **Concepts Applied:** Classes, Objects, Encapsulation, Inheritance, Polymorphism, File Handling  
+
+  
+---
+
+## 🚀 How to Run
+> ⚠️ To run the project, download all the **`.cpp` files** (including `main.cpp`) and **compile them together** in a C++ IDE or using a terminal with `g++`.  
+
+For example, using the terminal:  
+```bash
+g++ *.cpp -o CryptoTradingSystem
+./CryptoTradingSystem
+```
 
 ---
 
@@ -29,12 +41,6 @@ The **Crypto Trading System** simulates a simplified trading environment using t
 
 ## 👨‍💻 Author
 **Hemant Prakash**  
-B.Tech in Computer Science & Engineering  
-2nd Year (Semester 3)  
-Central University of Jharkhand, Ranchi  
-
----
-
-## 📖 Acknowledgment
-This project was developed as part of the coursework for the **Object Oriented Programming specialization** on Coursera, authorized by the **University of London (Goldsmiths)**.  
-
+- Integrated B.Tech-M.Tech in Computer Sc. & Engineering  
+- Semester 3 
+- Central University of Jharkhand, Ranchi.
